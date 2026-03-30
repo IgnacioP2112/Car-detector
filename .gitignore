@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelos
+*.pt
+
+# Videos
+video/
+
+# Otros
+.DS_Store
